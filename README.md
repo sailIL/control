@@ -1,4 +1,4 @@
 # control
-handles control algorithms:
-velocity pid for thruesters 
-pure pursuit for steering
+**handles control algorithms:**
+1) velocity pid for thruesters 
+2) pure pursuit for steering
